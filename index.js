@@ -3,7 +3,7 @@
 const token = '5623717286:AAFgkQf9FLPNR3HJpDE4T-xfTZGcmbTDUYU'
 
 const { Telegraf } = require('telegraf')
-s
+
 let p1 = ''
 let p2 = ''
 let p3 = ''
